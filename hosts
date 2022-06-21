@@ -1,0 +1,36 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+fe80::1%lo0	localhost
+
+127.0.0.1	tk-void
+127.0.0.1	tk-basic
+127.0.0.1	tk-full
+127.0.0.1	tk-generic
+127.0.0.1	tk-persona
+127.0.0.1	tk-search
+127.0.0.1	tk-designer
+127.0.0.1	tk-samples
+
+127.0.0.1	tk-all
+127.0.0.1	tk-links
+127.0.0.1	tk-melify
+127.0.0.1	tk-mel
+127.0.0.1	tk-profile
+127.0.0.1	tk-videos
+127.0.0.1	tk-es
+127.0.0.1	tk-ws
+127.0.0.1	tk-be
+127.0.0.1	tk-wc
+
+127.0.0.1	tk-utils
+127.0.0.1	tk-test
+127.0.0.1	tk-videos
+127.0.0.1	tk-tinystack
+127.0.0.1	tk-docmgr
